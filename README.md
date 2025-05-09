@@ -32,9 +32,11 @@ session = fo.launch_app(dataset)
 
 # Dataset Details
 ## Dataset Source
-Repository: https://github.com/OS-Copilot/OS-Atlas and https://huggingface.co/datasets/os-copilot/screenspot-v2
-Paper: [OS-ATLAS: A Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218)
-Project Page: https://osatlas.github.io/
+- Repository: https://github.com/OS-Copilot/OS-Atlas and https://huggingface.co/datasets/os-copilot/screenspot-v2
+
+- Paper: [OS-ATLAS: A Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218)
+
+- Project Page: https://osatlas.github.io/
 
 ## Uses
 ### Direct Use
